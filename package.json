@@ -1,0 +1,22 @@
+{
+  "name": "ads",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "start": "node dist/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivansyvak/ads.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ivansyvak/ads/issues"
+  },
+  "homepage": "https://github.com/ivansyvak/ads#readme",
+  "dependencies": {
+    "@types/node": "^10.5.1"
+  }
+}
